@@ -1,0 +1,8 @@
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\bin\Debug\GetCurrentRobloxVersion.exe.config
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\bin\Debug\GetCurrentRobloxVersion.exe
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\bin\Debug\GetCurrentRobloxVersion.pdb
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\obj\Debug\GetCurrentRobloxVersion.csproj.AssemblyReference.cache
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\obj\Debug\GetCurrentRobloxVersion.csproj.SuggestedBindingRedirects.cache
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\obj\Debug\GetCurrentRobloxVersion.csproj.CoreCompileInputs.cache
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\obj\Debug\GetCurrentRobloxVersion.exe
+D:\BadlionForRoblox\GetCurrentRobloxVersion\GetCurrentRobloxVersion\obj\Debug\GetCurrentRobloxVersion.pdb
